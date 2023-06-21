@@ -21,10 +21,11 @@ export default {
 
 <template>
     <div class="container">
-        <h1>Brayan Cordova - Web</h1>
+        <h1>Brayan Córdova - Web Developer</h1>
+        <hr />
         <img src="./assets/logo.svg" alt="logo vue" width="125" height="125" />
         <small>
-            <h1>Hello World from Vue.js 3</h1>
+            <h1 class="name">Hello World from Vue.js 3</h1>
         </small>
         <hr />
 

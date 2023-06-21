@@ -3,3 +3,10 @@ body {
     background-color: #ccc;
     font-family: "Lato", sans-serif;
 }
+.name {
+    color: green;
+}
+
+.contact {
+    font-size: 10;
+}
